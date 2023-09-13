@@ -126,9 +126,9 @@ html
 .main__home .home__text h1 
 { 
     font-size: 72px;
-    background: -webkit-linear-gradient(#2e48da, #7c89d1fd);
+    background: linear-gradient(#2e48da, #7c89d1fd);
     background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: transparent;
 
 }
 .main__home .home__text h3
